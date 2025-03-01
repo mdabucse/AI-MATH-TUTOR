@@ -36,7 +36,7 @@ The RAG-based chatbot processes the transcripts to provide accurate answers. It 
 
 ## Workflow
 
-![WhatsApp Image 2025-03-01 at 14 54 11_4e6f1f9d](https://github.com/user-attachments/assets/17c2be85-e24b-4192-beba-7cc93cc2bd64)
+![Edu AI Flowchart](https://github.com/user-attachments/assets/3bb24207-62a3-4913-8097-bef24fe186bb)
 
 ## Code Structure
 
