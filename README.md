@@ -100,29 +100,23 @@ canvas_backend/
 
 ## Installation
 1. Clone the repository:
-   sh
-   git clone https://github.com/your-repo/ai-math-tutor.git
+   git clone [https://github.com/your-repo/ai-math-tutor.git](https://github.com/mdabucse/AI-MATH-TUTOR.git)
    
 2. Navigate to the project directory:
-   sh
    cd ai-math-tutor
    
 3. Install dependencies for the frontend:
-   sh
    cd frontend
    npm install
    
 4. Install dependencies for the backend:
-   sh
    cd backend
    pip install -r requirements.txt
    
 5. Run the frontend:
-   sh
-   npm start
+   npm run dev
    
 6. Run the backend:
-   sh
    python app.py
    
 ## Prototype
