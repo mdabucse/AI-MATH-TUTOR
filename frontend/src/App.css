@@ -1,0 +1,72 @@
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container1 {
+  width: 600px;
+  height: 300px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 30px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: black;
+}
+
+.subtitle {
+  font-size: 16px;
+  margin-top: -10px;
+  color: #555;
+}
+
+.input-container {
+  margin-top: 30px;
+}
+
+.label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.input-box {
+  width: 80%;
+  padding: 10px;
+  border-radius: 20px;
+  border: 2px solid #ccc;
+  background-color: white;
+  color: black;
+  outline: none;
+  font-size: 16px;
+  text-align: center;
+}
+
+.submit-btn {
+  width: 20%;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+}
